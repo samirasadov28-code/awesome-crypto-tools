@@ -63,6 +63,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [Santiment](https://santiment.net) — On-chain, social, and development activity metrics.
 - [Parsec](https://parsec.fi) — Real-time DeFi analytics and position monitoring.
 - [DeBank](https://debank.com) — Multi-chain DeFi portfolio and whale tracking.
+- [PolyMind](https://polyminds.netlify.app/) — Real-time Polymarket trading alerts with multi-AI analysis. Tracks whale bets, volume spikes, coordinated wallets, and 12 signal types across 200+ prediction markets.
 
 ## Portfolio Trackers
 
